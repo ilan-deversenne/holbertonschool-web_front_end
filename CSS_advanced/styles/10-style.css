@@ -1,7 +1,3 @@
-/* Créez une nouvelle propriété personnalisée « section-header-align » et définissez-la sur « center »
-Juste au-dessus de la déclaration « section-tagline », créez une nouvelle déclaration ciblant la classe « section-header »
-Définissez l'alignement horizontal de cette classe à l'aide de « section-header-align » */
-
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
